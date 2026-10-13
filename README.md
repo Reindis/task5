@@ -8,7 +8,6 @@ class Program
 {
     static void Main()
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.WriteLine("=== ОПЕРАЦИЯ «ОГРАБЛЕНИЕ БАНКА» ===");
         Console.WriteLine("Команда взломщиков вскрывает многоуровневое хранилище");
 
