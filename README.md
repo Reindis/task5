@@ -124,7 +124,7 @@ class Program
             Console.WriteLine($"  [{i}] {item}");
         }
 
-        Console.WriteLine("\n=== Операция завершена ===");
+        Console.WriteLine("=== Операция завершена ===");
         Console.ReadKey();
     }
 }
