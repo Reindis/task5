@@ -10,7 +10,7 @@ class Program
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.WriteLine("=== ОПЕРАЦИЯ «ОГРАБЛЕНИЕ БАНКА» ===");
-        Console.WriteLine("Команда взломщиков вскрывает многоуровневое хранилище\n");
+        Console.WriteLine("Команда взломщиков вскрывает многоуровневое хранилище");
 
         // 1. Инициализировать массив гаджетов взломщика на 5 наименований
         string[] gadgets = {
