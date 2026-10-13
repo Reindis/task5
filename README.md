@@ -124,7 +124,9 @@ class Program
             string item = gadgets[i] ?? "Пусто";
             Console.WriteLine($"  [{i}] {item}");
         }
-
+![№1](screens/01.png)
+![№2](screens/02.png)
+![№3](screens/03.png)
         Console.WriteLine("\n=== Операция завершена ===");
         Console.ReadKey();
     }
