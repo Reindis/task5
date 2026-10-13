@@ -131,6 +131,6 @@ class Program
 }
 ```
 
-![№1](screens/01.png)
-![№2](screens/02.png)
-![№3](screens/03.png)
+![№1](sreens/01.png)
+![№2](sreens/02.png)
+![№3](sreens/03.png)
